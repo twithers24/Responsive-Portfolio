@@ -1,0 +1,118 @@
+
+.background{
+    background-image: url(../images/dust_scratches.png);
+    
+}
+
+.rowback{
+    background-color: white;
+}
+
+.info{
+    border: 1px solid rgb(185, 184, 184);
+    margin-top: 150px;
+    background-color: white;
+    margin-bottom: 150px;
+}
+
+.inform{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.me{
+    float: left;
+    padding-right: 10px;
+}
+
+.connect{
+    border: 1px solid rgb(185, 184, 184);
+    margin-top: 150px;
+    background-color: white;
+    width: 270px;
+}
+
+.icon{
+    height: 75px;
+    width: 75px;
+  }
+
+  .jesus{
+    border-bottom: 4px solid #dddddd;
+  }
+
+  .navbar-brand{
+    background-color: #4aaaa5;
+    border: 1px solid rgb(185, 184, 184);
+    width: 275px;
+    height: 90px;
+  }
+
+  .headname{
+      color: white;
+      text-align: center;
+      margin-top: 15px;
+      font-size: 27px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+  }
+
+  .menu{
+      padding-right: 300px;
+      font-size: 21px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      color: #666666;
+  }
+
+  .footer{
+    background-color: #666666;
+    border-top: 13px solid #4aaaa5;
+    color: white;
+   height: 75px
+  }
+
+  .foothead{
+    padding-left: 575px;
+    padding-top: 30px;
+ }
+
+ h1{
+    color: #4aaaa5;
+    font-size: 34px;
+    margin-left: 25px;
+    margin-top: 30px;
+    font-weight: bold;
+ }
+
+ h2{
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 15px; 
+    text-align: center;
+ }
+
+ .hr1{
+    width: 93%;
+  }
+  
+  .hr2{
+    width: 70%;
+  }
+.field{
+    width: 500px;
+}
+.message{
+    width: 500px;
+    height: 200px;
+}
+
+.form{
+    margin-left: 17px;
+}
+
+.pic{
+    width: 195px;
+    height: 195px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
